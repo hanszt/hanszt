@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, supping, sailing, Java, Kotlin, Angular
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: mail: hanszuidervaart@hotmail.com
 
 <!---
 hanszt/hanszt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
